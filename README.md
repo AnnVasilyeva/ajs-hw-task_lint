@@ -1,0 +1,1 @@
+# ajs-hw-task_lint
