@@ -1,0 +1,28 @@
+{
+  "name": "ajs-hw-task_lint",
+  "version": "1.0.0",
+  "description": "'task_3'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnVasilyeva/ajs-hw-task_lint.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "AnnV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnVasilyeva/ajs-hw-task_lint/issues"
+  },
+  "homepage": "https://github.com/AnnVasilyeva/ajs-hw-task_lint#readme",
+  "devDependencies": {
+    "eslint": "^7.3.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.21.2"
+  }
+}
